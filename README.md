@@ -1,5 +1,6 @@
 # AngularJs-NodeJs-npm-bower-grunt
-Simple example which builds the angularJs project using NodeJs(npm-bower-grunt)
+Simple example which builds the angularJs project using NodeJs(npm-bower-grunt). 
+This project has grunt operations like: Clean, Less, Watch, Copy
 
 Install softwares required for to run the project like Nodejs grunt.....
 
